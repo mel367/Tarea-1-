@@ -1,9 +1,9 @@
-descargar el editor de código de Visual Studio Code: lo descargamos
+download the Visual Studio Code code editor: we download it
 
-Compilador C/C++ (en este caso MinGW): descargarlo
+C/C++ compiler (in this case MinGW): download it
 
-Extensión del instalador para Visual Studio Code: C/C++ (formato para C/C++)
+Installer Extension for Visual Studio Code: C/C++ (Format for C/C++)
 
-Instale la extensión para Visual Studio Code: Code Runner
+Install the extension for Visual Studio Code: Code Runner
 
-Una vez que tenemos las 2 extensiones instaladas y el compilador vamos al archivo .c y hacemos clic derecho sobre él y seleccionamos la opción ejecutar código y hacemos clic derecho para ejecutar el archivo .c
+Once we have the 2 extensions installed and the compiler we go to the .c file and right click on it and select the run code option and right click to run the .c file
